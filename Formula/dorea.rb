@@ -5,7 +5,7 @@ class Dorea < Formula
   desc "A Key-Value data storage system. - dorea db"
   homepage "https://dorea.mrxzx.info"
   url "https://github.com/mrxiaozhuox/dorea/releases/download/v0.3.0/dorea_v0.3.0-macos-server.tar.gz"
-  sha256 "a978da9d5ed6bbc853b40003e0bb50b6fdc624bd0645e18b4512196f64038671"
+  sha256 "d9e8a445c0d1386b27ab929c36eda4eb7202a5ec5c7fd5b831fe8669ed0e2bc5"
   license "MIT"
 
   # depends_on "cmake" => :build
